@@ -10,6 +10,3 @@
 [submodule "06-authoring-actions/container-actions/shell-container-action"]
 	path = 06-authoring-actions/container-actions/shell-container-action
 	url = https://github.com/sidpalas/shell-container-action.git
-[submodule "capstone"]
-	path = capstone
-	url = git@github.com:sidpalas/capstone.git
